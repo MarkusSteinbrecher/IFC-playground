@@ -1,5 +1,8 @@
 [
-    "IfcWall",
-    "IfcDoor"
-  ]
-  
+  "IfcWall",
+  "IfcDoor",
+  "IfcWindow",
+  "IfcSlab",
+  "IfcRoof",
+  "IfcBuildingElementProxy"
+]
