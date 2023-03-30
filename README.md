@@ -1,6 +1,6 @@
 # IFC-playground
 
-this is a python script that takes two inputs: (1) It takes a list of ifc elements (e.g. IfcWall, IfcDoor) defined on "element_filter.json. (2) It takes a list of ifc properties (e.g. IfcWallCommon.ElementID) and then exports a matrix with all elements as rows and properties as columns.
+this is a python script that takes three inputs: (1) It takes a list of ifc elements (e.g. IfcWall, IfcDoor) defined on "element_filter.json. (2) It takes a list of ifc properties (e.g. IfcWallCommon.ElementID) and then exports a matrix with all elements as rows and properties as columns. (3) It takes an ifc file.
 
 To test it clone this repo and do the following:
 
